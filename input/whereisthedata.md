@@ -1,0 +1,1 @@
+**This directory is empty by default. The large input datasets can be downloaded from the [NYC Open Data Portal](https://opendata.cityofnewyork.us/). Details are listed in code/Tower-Identification-OSA-Data.ipynb**
